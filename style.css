@@ -1,4 +1,7 @@
 body{
 background-color: rgb(5, 80, 255);    
-color: midnightblue;
-font-family: 'Courier New', Courier, monospace;}
+color: rgb(216, 216, 231);
+font-family: "Libertinus Keyboard", system-ui;
+}
+header{font-size: 50px;}
+h1{font-size: 30px;}
